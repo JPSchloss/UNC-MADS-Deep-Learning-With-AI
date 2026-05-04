@@ -1,0 +1,10 @@
+Week 1 - Linear And Logistic Regression/Kaggle_Housing_Data.csv
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# API keys / secrets
+.env
